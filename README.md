@@ -6,7 +6,7 @@ Propably most efficient way to save up your battery life on your Macbook machine
 
   1. sudo pmset -a sleep 0
   2. sudo pmset -a disablesleep 1
-  3. sudo pmset -a displaysleep 5
+  3. sudo pmset -a displaysleep 5 (sleep timer set to 5 mins)
 
 <img width="614" alt="image" src="https://github.com/skorupcia/clamshell_macos/assets/136620461/c4ddee7a-4cbc-407a-9494-0c1e59ebc5de">
 
@@ -16,7 +16,7 @@ Propably most efficient way to save up your battery life on your Macbook machine
 
   1. sudo pmset -a sleep 1
   2. sudo pmset -a disablesleep 0
-  3. sudo pmset -a displaysleep 1
+  3. sudo pmset -a displaysleep 1 (change if you want different sleep timer)
 
 <img width="610" alt="image" src="https://github.com/skorupcia/clamshell_macos/assets/136620461/44e569c4-79c7-420b-9638-564536907702">
 
@@ -28,6 +28,7 @@ Propably most efficient way to save up your battery life on your Macbook machine
 ## TroubleShooting
 
 1. Remeber to check "Run as administrator" box to run the commands with proper permissions.
+2. If your screen goes sleep mode, you have to open the lid to wake up machine (trying to find a solution for that)
 
 ## Links
 
