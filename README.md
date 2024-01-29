@@ -1,6 +1,6 @@
 # MacOS Clamshell mode on battery power.
 
-Propably most efficient way to save up your battery life on your Macbook machines. Really fast and kind usage, in the future I will add the difference between battery cycles usage with and without clamshell.
+Propably most pleasant way to run your Macbook machine in clamshell mode without power and save up your battery life. Really fast and pleasant to use.
 
 ## Create "no-Sleep" shortcut to prevent macbook going sleep after closing the lid.
 
