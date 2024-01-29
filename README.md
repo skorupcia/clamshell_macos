@@ -28,3 +28,9 @@ Propably most efficient way to save up your battery life on your Macbook machine
 ## TroubleShooting
 
 1. Remeber to check "Run as administrator" box to run the commands with proper permissions.
+
+## Links
+
+Sleep iCloud link: https://www.icloud.com/shortcuts/e2dc776519b04decaff3c9935723b1b9
+
+No sleep iCloud link: https://www.icloud.com/shortcuts/ebbaa6956a884cd590974aad6f7596ad
