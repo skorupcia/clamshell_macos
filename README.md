@@ -1,6 +1,6 @@
 # MacOS Clamshell mode on battery power.
 
-Propably most pleasant way to switch your Macbook machine between clamshell mode without power adapter and save up your battery life a bit ;)
+Propably most pleasant way to switch your Macbook machine between clamshell mode without power adapter.
 
 ## Create "no-Sleep" shortcut to prevent macbook going sleep after closing the lid.
 
